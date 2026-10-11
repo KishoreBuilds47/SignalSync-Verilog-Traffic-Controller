@@ -71,9 +71,4 @@ module traffic_light(
         Green: green =1;
           
       endcase
-    end
-  
-endmodule
-          
-          
-   
+    end 
